@@ -48,7 +48,3 @@ ggplot(df.ODAJapan) +
        x = "Foriegn Assistance Flows to Top Recipeints",
        y = "A list of Top Recipeints",
        caption = "Data Source: White Paper on Development Cooperation 2019 | Ministry of Foreign Affairs of Japan")
-
-git remote add origin git@github.com:qixue92/dataviz.git
-git branch -M main
-git push -u origin main
